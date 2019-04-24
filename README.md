@@ -1,3 +1,3 @@
 # creditcard-frauddetection
 
-Dwonloadd the data form release
+Download the data form release
